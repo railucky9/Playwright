@@ -1,0 +1,6 @@
+{
+  name: 'kumar',
+  job: 'engineer',
+  id: '267',
+  createdAt: '2023-09-29T08:26:40.797Z'
+}
